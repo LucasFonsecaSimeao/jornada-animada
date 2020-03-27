@@ -1,1 +1,1 @@
-# jornada-animada
+Primeiro código pra trabalho escolar!
